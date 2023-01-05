@@ -90,11 +90,8 @@ a {
 .cansel {
   display: none;
 }
-/* .nav__cansel{
-  display: none;
-} */
-.header__check {
-  display: none;
+.cansel:hover{
+  cursor: pointer;
 }
 .header__bottom {
   margin-top: 51px;
